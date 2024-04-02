@@ -20,4 +20,4 @@ NODE JS/NPM/NEXT JS
 - react is the overall development framework
 
 RUNNING THE PROJECT
-- npm run dev in the frontend folder should run the project, cmd+click on the link it provides you
+- npm run dev in the Trojan-Study-Spots/trojan-study-spots folder should run the project, cmd+click on the link it provides you
